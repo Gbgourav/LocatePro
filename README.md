@@ -1,5 +1,25 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# **Locate Pro**
+
+Locate Pro is a user-friendly mobile application designed to provide real-time location updates, comprehensive mapping features, and detailed battery information. Whether you're keeping track of loved ones, monitoring fleet movements, or simply curious about your own whereabouts, Locate Pro has you covered.
+
+## **Key Features**
+
+**Real-time Location Updates** 
+
+## **1: Get automatic updates of your device's location every 10 minutes. Stay informed about the current location.**
+
+![Alt text](assets/image/locationlist.png)
+
+## **2: Moving Direction on Map Visualize the movement path with an intuitive map interface. Track the route history to understand past movements and patterns.**
+
+![Alt text](assets/image/locationmap.png)
+
+## **3: Battery Details Monitor your device's battery status with detailed information. Receive alerts when the battery level is low, ensuring uninterrupted tracking.**
+
+![Alt text](assets/image/battery.png)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
