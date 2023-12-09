@@ -102,7 +102,7 @@ const App = () => {
 
     const intervalId = setInterval(() => {
       getLocation();
-    }, 180000);
+    }, 600000);
 
     return () => clearInterval(intervalId);
   }, []);
